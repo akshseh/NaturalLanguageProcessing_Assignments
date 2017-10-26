@@ -1,0 +1,14 @@
+2085 : i need a flight from charlotte to las vegas that makes a stop in saint louis .
+1380 : what is the cheapest one way flight from phoenix to san diego that arrives in the morning on thursday june second .
+50 : what is the cheapest one way flight from columbus to indianapolis .
+18 : is there a flight from memphis to los angeles .
+0 : what aircraft is this .
+20 : please show me the flights from chicago to detroit that arrive at six p.m. next tuesday .
+0 : what flights are available between chicago and indianapolis next wednesday between eleven a.m. and one p.m .
+0 : please book a one way coach fare from chicago to indianapolis on united flight two ninety two next wednesday .
+1059 : show me flights from chicago to kansas city leaving around seven p.m. thursday .
+0 : show american flights after twelve p.m. from miami to chicago .
+0 : does united flight four seven four slash fourteen eighty four serve dinner .
+0 : what kind of aircraft is american 's flight fifteen oh one that departs at six fifty nine p.m .
+0 : show me flights from detroit to san diego on tuesday may third .
+0 : i 'd like to fly from indianapolis to houston on t w a and the plane should arrive around eleven a.m .
